@@ -7,6 +7,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdlaVijwal&label=Profile+Views&color=38BDF8&style=flat" />
 </p>
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hi 👋, I'm Vijwal Adla</h1>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38BDF8&vCenter=true&width=500&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast" />
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img src=".readme_tile.png" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🎓 Certifications & Professional Badges
