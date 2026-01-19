@@ -1,35 +1,28 @@
-<div style="display:flex; align-items:center; justify-content:space-between; gap:24px;">
+<img src="readme_tile.png" width="210" align="right" />
 
-  <div style="flex:1;">
-    <h1 style="color:#0F172A; margin-bottom:8px;">
-      Hi 👋, I'm Vijwal Adla
-    </h1>
+<h1 style="color:#0F172A;">Hi 👋, I'm Vijwal Adla</h1>
 
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38BDF8&vCenter=true&width=520&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Practical+Engineering+Solutions"
-      alt="Typing animation"
-    />
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38BDF8&vCenter=true&width=520&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Practical+Engineering+Solutions"
+    alt="Typing animation"
+  />
+</p>
 
-    <p style="margin-top:10px;">
-      🎓 Final-year Computer Science student<br/>
-      🧠 Interested in backend systems, AI & architecture<br/>
-      📐 Focused on clean design and real-world usability
-    </p>
-  </div>
-
-  <div style="flex-shrink:0;">
-    <img
-      src="readme_tile.png"
-      alt="Programmer illustration"
-      width="210"
-    />
-  </div>
-
-</div>
+<p>
+  🎓 Final-year Computer Science student<br/>
+  🧠 Interested in backend systems, AI & architecture<br/>
+  📐 Focused on clean design and real-world usability
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=AdlaVijwal&label=Profile+Views&color=38BDF8&style=flat" />
 </p>
+
+<br clear="right" />
+
+---
+
 ---
 
 ## 🛠 Tech Stack
