@@ -1,88 +1,80 @@
-<h1 align="center">Hi 👋, I'm Vijwal Adla</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Practical+Engineering+Solutions" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdlaVijwal&label=Profile+Views&color=38BDF8&style=flat" />
-</p>
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%">
-      <h1>Hi 👋, I'm Vijwal Adla</h1>
+    <td width="65%" valign="top">
+      <h1 style="color:#0F172A;">Hi 👋, I'm Vijwal Adla</h1>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38BDF8&vCenter=true&width=500&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38BDF8&vCenter=true&width=520&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Practical+Engineering+Solutions" />
+      </p>
+      <p>
+        🎓 Final-year Computer Science student<br/>
+        🧠 Interested in backend systems, AI & architecture<br/>
+        📐 Focused on clean design and real-world usability
       </p>
     </td>
-    <td width="40%" align="right">
-      <img src="readme_tile.png" width="300" />
+    <td width="35%" align="right" valign="top">
+      <img src="./assets/programmer.png" width="220" />
     </td>
   </tr>
 </table>
 
----
-## 🎓 Certifications & Professional Badges
-
 <p>
-  <img src="https://img.shields.io/badge/Google-5_Day_Intensive_Course_%26_Capstone_Project-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=AdlaVijwal&label=Profile+Views&color=38BDF8&style=flat" />
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-Career_Essentials_in_Data_Analysis-0078D4?style=flat&logo=microsoft&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Wipro-Java_Certified-005EB8?style=flat&logo=java&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Infosys-Python_Programming_Certified-007CC3?style=flat&logo=python&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-Career_Essentials_Professional_Certificate-181717?style=flat&logo=github&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google_Ads-Certified-34A853?style=flat&logo=googleads&logoColor=white" />
-</p>
-
-## 👨‍💻 About Me
-
-🎓 Final-year Computer Science student  
-💡 Interested in **system design, backend logic & AI-driven products**  
-🧩 I focus on **how things work**, not just making them work  
-🚀 I enjoy turning ideas into **structured, scalable systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,vite,express,tailwind,mongodb,mysql,git,linux,postman" />
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+</p>
+
+### 🧩 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat" />
+</p>
+
+### 🛢 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🌟 Featured Project (Main)
+## 🌟 Featured Project
 
 ### 🚀 InnovBridge — Innovation Meets Execution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdlaVijwal/InnovBridge/main/assets/innovbridge-laptop.png" width="650" />
+<p>
+  <img src="https://raw.githubusercontent.com/AdlaVijwal/InnovBridge/main/assets/innovbridge-laptop.png" width="600" />
 </p>
 
-**InnovBridge** is designed as a platform that connects ideas, technology, and execution
-through a structured engineering approach.
-
-**Highlights**
-- Modular and scalable architecture  
+- Modular and scalable platform architecture  
 - Clean frontend–backend separation  
-- Built with real-world usability in mind  
+- Designed with real-world use cases in mind  
 
 **Tech:** React · Node.js · REST APIs · MongoDB  
 🔗 https://github.com/AdlaVijwal/InnovBridge
@@ -94,68 +86,29 @@ through a structured engineering approach.
 ### 🚦 Smart Traffic Optimization System
 - Real-time traffic density analysis  
 - Adaptive signal control logic  
-- Smart-city inspired system design  
 
-**Tech:** Python · OpenCV · Machine Learning  
 🔗 https://github.com/AdlaVijwal/Traffic_Optimization
 
----
-
 ### 🤖 Gemini Study Mentor
-- AI-powered study assistance  
-- Context-aware responses  
-- Designed for exam preparation workflows  
+- AI-powered exam preparation assistant  
 
-**Tech:** Python · LLM · Prompt Engineering  
 🔗 https://github.com/AdlaVijwal/Gemini-Study-Mentor
 
 ---
 
-## 🎓 Certifications & Badges
+## 🎓 Certifications & Professional Badges
 
 <p>
   <img src="https://img.shields.io/badge/Google-Certified_Capstone_Project-4285F4?style=flat&logo=google&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-Career_Essentials_in_Data_Analysis-0078D4?style=flat&logo=microsoft&logoColor=white" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/Microsoft-Data_Analysis_Career_Essentials-0078D4?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Wipro-Java_Certified-005EB8?style=flat&logo=java&logoColor=white" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Infosys-Python_Programming_Certified-007CC3?style=flat&logo=python&logoColor=white" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-Career_Essentials_Professional_Certificate-181717?style=flat&logo=github&logoColor=white" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/GitHub-Career_Essentials_Professional-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Ads-Certified-34A853?style=flat&logo=googleads&logoColor=white" />
 </p>
 
 ---
-
-## 🧠 How I Approach Engineering
-
-✔ Think in systems, not scripts  
-✔ Prefer clarity over cleverness  
-✔ Document decisions and trade-offs  
-✔ Build → test → refine  
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/AdlaVijwal  
-- LinkedIn: *(add when ready)*  
 
 <p align="center">
   <i>“Good engineering is invisible — until it matters.”</i>
