@@ -401,18 +401,6 @@ Secure digital voting platform with blockchain-inspired security.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdlaVijwal&show_icons=true&theme=radical&bg_color=0D1117&title_color=00f7f4&icon_color=00f7f4&text_color=ffffff&border_color=00f7f4&hide_border=false&border_radius=10" width="100%" />
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdlaVijwal&theme=radical&background=0D1117&ring=00f7f4&fire=00f7f4&currStreakLabel=00f7f4&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border=00f7f4&border_radius=10" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdlaVijwal&layout=compact&theme=radical&bg_color=0D1117&title_color=00f7f4&text_color=ffffff&border_color=00f7f4&hide_border=false&border_radius=10&langs_count=8" width="60%" />
 
 </td>
@@ -420,9 +408,6 @@ Secure digital voting platform with blockchain-inspired security.
 </table>
 
 <br/>
-
-<!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=AdlaVijwal&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" width="100%" />
 
 </div>
 
@@ -485,15 +470,13 @@ Building microservices<br/>& container orchestration
   <a href="https://github.com/AdlaVijwal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vijwal.adla@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vijwal-adla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  
 </p>
 
 <br/>
