@@ -20,9 +20,6 @@
 </p>
 
 <br clear="right" />
-
----
-
 ---
 
 ## 🛠 Tech Stack
