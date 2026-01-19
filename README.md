@@ -1,95 +1,107 @@
 <h1 align="center">Hi 👋, I'm Vijwal Adla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7FFFD4&center=true&vCenter=true&width=700&lines=Engineer+|+AI+Explorer+|+Full+Stack+Dev;Building+Smart+Systems+for+Real+World;Turning+Ideas+Into+Impactful+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;I+Build+Systems+Not+Just+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdlaVijwal&label=Views&color=0e75b6&style=flat-square" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/AdlaVijwal?tab=followers">
-    <img src="https://img.shields.io/github/followers/AdlaVijwal?label=Followers&style=flat-square" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AdlaVijwal&label=Profile+Views&color=38BDF8&style=flat" />
 </p>
 
 ---
 
-## 🛠️ Tech I Use
+## 👨‍💻 About Me
+
+🎓 Final-year Computer Science student  
+🚦 Built **real-world intelligent systems**  
+🧠 Strong interest in **AI, backend systems & architecture**  
+📐 I care about **design decisions, scalability & clarity**
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,vite,express,tailwind,html,css,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,vite,express,tailwind,mongodb,mysql,git,linux" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🚦 Smart Traffic Optimization  
+### 🚦 Smart Traffic Optimization System
 <p align="center">
-  <a href="https://github.com/AdlaVijwal/Traffic_Optimization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdlaVijwal&repo=Traffic_Optimization&theme=radical" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AdlaVijwal/Traffic_Optimization/main/assets/traffic-demo.gif" width="650" />
 </p>
-💡 Real-time traffic analysis + adaptive signal timing.  
-🔗 Try code / demo: **REPO_LINK**
+
+**What it does**
+- Real-time traffic density detection  
+- Adaptive signal timing logic  
+- Smart-city oriented design  
+
+**Tech:** Python · OpenCV · Machine Learning  
+🔗 https://github.com/AdlaVijwal/Traffic_Optimization
 
 ---
 
-### 🤖 Gemini Study Mentor  
+### 🤖 Gemini Study Mentor
 <p align="center">
-  <a href="https://github.com/AdlaVijwal/Gemini-Study-Mentor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdlaVijwal&repo=Gemini-Study-Mentor&theme=radical" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AdlaVijwal/Gemini-Study-Mentor/main/assets/demo.gif" width="650" />
 </p>
-💡 Multi-agent AI exam preparation assistant.  
-✨ Powered by Python + LLM.
+
+**What it does**
+- AI-powered exam preparation assistant  
+- Context-aware study guidance  
+- Multi-agent reasoning approach  
+
+**Tech:** Python · LLM · Prompt Engineering  
+🔗 https://github.com/AdlaVijwal/Gemini-Study-Mentor
 
 ---
 
-### 📈 Smart Resume Analyzer  
+### 📄 Smart Resume Analyzer
 <p align="center">
-  <a href="https://github.com/AdlaVijwal/smart-resume-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdlaVijwal&repo=smart-resume-analyzer&theme=radical" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AdlaVijwal/smart-resume-analyzer/main/assets/demo.gif" width="650" />
 </p>
-💼 NLP powered resume skill matching.  
-🔍 Converts JD → candidate fit score.
+
+**What it does**
+- Resume ↔ Job description matching  
+- Skill extraction using NLP  
+- Fit-score generation  
+
+**Tech:** Python · NLP · ML  
+🔗 https://github.com/AdlaVijwal/smart-resume-analyzer
 
 ---
 
-## 📊 GitHub Stats
-
+### 📈 Stock Price Predictor
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdlaVijwal&show_icons=true&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/AdlaVijwal/stock-price-predictor/main/assets/demo.png" width="650" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdlaVijwal&theme=dracula" />
-</p>
+**What it does**
+- Time-series based prediction  
+- Visual trend analysis  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdlaVijwal&layout=compact&theme=dracula" />
-</p>
+**Tech:** Python · ML  
+🔗 https://github.com/AdlaVijwal/stock-price-predictor
 
 ---
 
-## 🚀 How I Build
+## 🧠 How I Build
 
-✨ Plan with architecture diagrams  
-📦 Write modular clean code  
-📊 Document tech decisions  
-🧪 Deploy MVP → iterate
+✔ Start with architecture  
+✔ Think in components & data flow  
+✔ Write readable, documented code  
+✔ Iterate with feedback  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect
+
+- GitHub: https://github.com/AdlaVijwal  
+- LinkedIn: *(add when ready)*  
 
 <p align="center">
-  <a href="https://linkedin.com/in/REPLACE_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
+  <i>“Clean code is a side effect of clear thinking.”</i>
 </p>
-
----
-
-<p align="center"><i>"Engineering systems that matter."</i></p>
