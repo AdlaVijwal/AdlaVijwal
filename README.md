@@ -1,3 +1,4 @@
+<br>
 <img src="readme_tile.png" width="210" align="right" />
 
 <h1 style="color:#0F172A;">Hi 👋, I'm Vijwal Adla</h1>
