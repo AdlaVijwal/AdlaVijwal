@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijwal Adla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;I+Build+Systems+Not+Just+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+in+the+Making;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Practical+Engineering+Solutions" />
 </p>
 
 <p align="center">
@@ -13,31 +13,46 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year Computer Science student  
-🚦 Built **real-world intelligent systems**  
-🧠 Strong interest in **AI, backend systems & architecture**  
-📐 I care about **design decisions, scalability & clarity**
+💡 Interested in **system design, backend logic & AI-driven products**  
+🧩 I focus on **how things work**, not just making them work  
+🚀 I enjoy turning ideas into **structured, scalable systems**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,vite,express,tailwind,mongodb,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,vite,express,tailwind,mongodb,mysql,git,linux,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Project (Main)
 
-### 🚦 Smart Traffic Optimization System
+### 🚀 InnovBridge — Innovation Meets Execution
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdlaVijwal/Traffic_Optimization/main/assets/traffic-demo.gif" width="650" />
+  <img src="https://raw.githubusercontent.com/AdlaVijwal/InnovBridge/main/assets/innovbridge-laptop.png" width="650" />
 </p>
 
-**What it does**
-- Real-time traffic density detection  
-- Adaptive signal timing logic  
-- Smart-city oriented design  
+**InnovBridge** is designed as a platform that connects ideas, technology, and execution
+through a structured engineering approach.
+
+**Highlights**
+- Modular and scalable architecture  
+- Clean frontend–backend separation  
+- Built with real-world usability in mind  
+
+**Tech:** React · Node.js · REST APIs · MongoDB  
+🔗 https://github.com/AdlaVijwal/InnovBridge
+
+---
+
+## 🚦 Other Notable Projects
+
+### 🚦 Smart Traffic Optimization System
+- Real-time traffic density analysis  
+- Adaptive signal control logic  
+- Smart-city inspired system design  
 
 **Tech:** Python · OpenCV · Machine Learning  
 🔗 https://github.com/AdlaVijwal/Traffic_Optimization
@@ -45,63 +60,61 @@
 ---
 
 ### 🤖 Gemini Study Mentor
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdlaVijwal/Gemini-Study-Mentor/main/assets/demo.gif" width="650" />
-</p>
-
-**What it does**
-- AI-powered exam preparation assistant  
-- Context-aware study guidance  
-- Multi-agent reasoning approach  
+- AI-powered study assistance  
+- Context-aware responses  
+- Designed for exam preparation workflows  
 
 **Tech:** Python · LLM · Prompt Engineering  
 🔗 https://github.com/AdlaVijwal/Gemini-Study-Mentor
 
 ---
 
-### 📄 Smart Resume Analyzer
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdlaVijwal/smart-resume-analyzer/main/assets/demo.gif" width="650" />
+## 🎓 Certifications & Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Google-Certified_Capstone_Project-4285F4?style=flat&logo=google&logoColor=white" />
 </p>
 
-**What it does**
-- Resume ↔ Job description matching  
-- Skill extraction using NLP  
-- Fit-score generation  
-
-**Tech:** Python · NLP · ML  
-🔗 https://github.com/AdlaVijwal/smart-resume-analyzer
-
----
-
-### 📈 Stock Price Predictor
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdlaVijwal/stock-price-predictor/main/assets/demo.png" width="650" />
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Career_Essentials_in_Data_Analysis-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </p>
 
-**What it does**
-- Time-series based prediction  
-- Visual trend analysis  
+<p>
+  <img src="https://img.shields.io/badge/Wipro-Java_Certified-005EB8?style=flat&logo=java&logoColor=white" />
+</p>
 
-**Tech:** Python · ML  
-🔗 https://github.com/AdlaVijwal/stock-price-predictor
+<p>
+  <img src="https://img.shields.io/badge/Infosys-Python_Programming_Certified-007CC3?style=flat&logo=python&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat&logo=postman&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Career_Essentials_Professional_Certificate-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Ads-Certified-34A853?style=flat&logo=googleads&logoColor=white" />
+</p>
 
 ---
 
-## 🧠 How I Build
+## 🧠 How I Approach Engineering
 
-✔ Start with architecture  
-✔ Think in components & data flow  
-✔ Write readable, documented code  
-✔ Iterate with feedback  
+✔ Think in systems, not scripts  
+✔ Prefer clarity over cleverness  
+✔ Document decisions and trade-offs  
+✔ Build → test → refine  
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 - GitHub: https://github.com/AdlaVijwal  
 - LinkedIn: *(add when ready)*  
 
 <p align="center">
-  <i>“Clean code is a side effect of clear thinking.”</i>
+  <i>“Good engineering is invisible — until it matters.”</i>
 </p>
