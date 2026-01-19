@@ -12,7 +12,7 @@
       </p>
     </td>
     <td width="35%" align="right" valign="top">
-      <img src="./assets/programmer.png" width="220" />
+      <img src="readme_tile.png" width="220" />
     </td>
   </tr>
 </table>
