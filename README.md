@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="40%" align="right">
-      <img src=".readme_tile.png" width="300" />
+      <img src="readme_tile.png" width="300" />
     </td>
   </tr>
 </table>
