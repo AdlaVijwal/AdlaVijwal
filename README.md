@@ -9,6 +9,35 @@
 </p>
 
 ---
+## 🎓 Certifications & Professional Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Google-5_Day_Intensive_Course_%26_Capstone_Project-4285F4?style=flat&logo=google&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Career_Essentials_in_Data_Analysis-0078D4?style=flat&logo=microsoft&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Wipro-Java_Certified-005EB8?style=flat&logo=java&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Infosys-Python_Programming_Certified-007CC3?style=flat&logo=python&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat&logo=postman&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Career_Essentials_Professional_Certificate-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Ads-Certified-34A853?style=flat&logo=googleads&logoColor=white" />
+</p>
 
 ## 👨‍💻 About Me
 
