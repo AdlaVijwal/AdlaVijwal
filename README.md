@@ -8,6 +8,7 @@
 <!-- TYPING ANIMATION WITH CODE THEME -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Frontend+Developer+%F0%9F%A7%A0;Building+The+Future%2C+One+Commit+At+A+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <br>
 </p>
 
 <!-- ANIMATED DIVIDER -->
