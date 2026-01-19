@@ -474,7 +474,7 @@ Building microservices<br/>& container orchestration
   <a href="mailto:vijwal.adla@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vijwal-adla/">
+  <a href="https://www.linkedin.com/in/vijwal-adla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
@@ -504,7 +504,7 @@ class Engineer:
 
 ### 🌟 &nbsp;Quote That Drives Me
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20Everything%20and%20When%20you%20have%20to%20explain%20it,%20it's%20easy.&author=Cory%20House" />
 
 </div>
 
