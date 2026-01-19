@@ -1,4 +1,3 @@
-<br>
 <img src="readme_tile.png" width="210" align="right" />
 
 <h1 style="color:#0F172A;">Hi 👋, I'm Vijwal Adla</h1>
@@ -20,7 +19,11 @@
   <img src="https://komarev.com/ghpvc/?username=AdlaVijwal&label=Profile+Views&color=38BDF8&style=flat" />
 </p>
 
-<br clear="right" />
+<!-- clear the floated image completely -->
+<div style="clear: both;"></div>
+
+<br/><br/>
+
 ---
 
 ## 🛠 Tech Stack
