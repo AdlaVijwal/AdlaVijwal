@@ -70,6 +70,58 @@ interface DevMetrics {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
+<!-- CERTIFICATIONS SECTION -->
+<div align="center">
+
+## 🎓 &nbsp;Professional Certifications & Achievements
+
+<br/>
+
+<!-- CERTIFICATION BADGES IN GRID -->
+<table border="0" cellspacing="10" cellpadding="10">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Google-5_Day_Intensive_Course-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Capstone_Project-Certified-4285F4?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Microsoft-Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Career_Essentials-Certified-0078D4?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Wipro-Java_Programming-005EB8?style=for-the-badge&logo=java&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Professional-Certified-005EB8?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Infosys-Python_Programming-007CC3?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Professional-Certified-007CC3?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Postman-API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Student_Expert-Certified-FF6C37?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/GitHub-Career_Essentials-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Professional-Certified-181717?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/Google_Ads-Marketing_Certification-34A853?style=for-the-badge&logo=googleads&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Professional-Certified-34A853?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+</div>
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <!-- TECH STACK SECTION WITH ANIMATED ICONS -->
 <div align="center">
@@ -327,60 +379,6 @@ Secure digital voting platform with blockchain-inspired security.
   <img src="https://img.shields.io/badge/View-00f7f4?style=flat-square&logo=github&logoColor=black" />
 </a>
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- CERTIFICATIONS SECTION -->
-<div align="center">
-
-## 🎓 &nbsp;Professional Certifications & Achievements
-
-<br/>
-
-<!-- CERTIFICATION BADGES IN GRID -->
-<table border="0" cellspacing="10" cellpadding="10">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Google-5_Day_Intensive_Course-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Capstone_Project-Certified-4285F4?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Microsoft-Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Career_Essentials-Certified-0078D4?style=for-the-badge" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Wipro-Java_Programming-005EB8?style=for-the-badge&logo=java&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Professional-Certified-005EB8?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Infosys-Python_Programming-007CC3?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Professional-Certified-007CC3?style=for-the-badge" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Postman-API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Student_Expert-Certified-FF6C37?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/GitHub-Career_Essentials-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Professional-Certified-181717?style=for-the-badge" />
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<img src="https://img.shields.io/badge/Google_Ads-Marketing_Certification-34A853?style=for-the-badge&logo=googleads&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Professional-Certified-34A853?style=for-the-badge" />
 </td>
 </tr>
 </table>
